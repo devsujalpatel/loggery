@@ -1,0 +1,7 @@
+allowBuilds:
+  '@clerk/shared': true
+  bufferutil: true
+  core-js: true
+  sharp: true
+  unrs-resolver: true
+  utf-8-validate: true
