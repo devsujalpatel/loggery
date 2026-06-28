@@ -30,14 +30,14 @@ export function LandingFooter() {
               Docs
             </Link>
             <Link
-              href="https://x.com/oneminutestack"
+              href="https://x.com/sujalpatelcoder"
               target="_blank"
               className="hover:text-slate-300 transition-colors"
             >
               Twitter
             </Link>
             <Link
-              href="https://github.com/one-minute-stack"
+              href="https://github.com/devsujalpatel"
               target="_blank"
               className="hover:text-slate-300 transition-colors"
             >
@@ -77,7 +77,7 @@ export function LandingFooter() {
 
         <div className="mt-8 border-t border-slate-900 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-[0.7rem] text-slate-600">
           <div className="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
-            <div>© {currentYear} OneMinute Stack Inc.</div>
+            <div>© {currentYear} Loggery Inc.</div>
             <div className="hidden sm:block text-slate-800">•</div>
             <div className="flex items-center gap-1">
               Built with <span className="text-red-500 mx-1">❤️</span> for
